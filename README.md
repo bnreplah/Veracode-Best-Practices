@@ -340,6 +340,7 @@ Cache and cookies: Always clear your cache and cookies before recording a crawl 
 
 
 ## Integrations ##
+[Integrate Security Into the SDLC](https://www.veracode.com/integrate-security-into-the-sdlc-1)
 
 ### Quick Links ###
 - [Pipeline Scanner Documentation](https://docs.veracode.com/r/Pipeline_Scan)
