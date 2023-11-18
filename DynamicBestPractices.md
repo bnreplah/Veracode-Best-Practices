@@ -109,16 +109,6 @@ Cache and cookies: Always clear your cache and cookies before recording a crawl 
 `Avoid pauses`: Where possible avoid including pauses in the script. 
 
 
-### Current Limitations ###
-
-
-### Coming Development ###
-
-~~- Dynamic Pause and Resume~~ [Completed]
-- Postman collection support
-    - Sequential scanning
-- Slight MFA support
-
 
 ### References ###
 Help Center: Selenium Commands Supported in Dynamic Analysis
