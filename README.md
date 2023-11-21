@@ -526,7 +526,7 @@ Looking at some of the most prevalant CWEs and Categories in an organization can
 ## Veracode Blog:
 
 - [Veracode Blog | PM Perspective on Best Practices Scaling AppSec Program](https://www.veracode.com/blog/managing-appsec/veracode-program-managers-perspective-best-practices-scaling-appsec-program)
-- [Veracode Blog | Top 6 DevOpps Web Application Security Best Practices](https://www.veracode.com/blog/secure-development/top-6-devops-web-application-security-best-practices)
+- [Veracode Blog | Top 6 DevOps Web Application Security Best Practices](https://www.veracode.com/blog/secure-development/top-6-devops-web-application-security-best-practices)
 - [Veracode | AppSec Best Practices ](https://community.veracode.com/s/knowledgeitem/appsec-best-practices-MC5HU2OIHZYFALPAZCKZL4AAITLU)
 - [Veracode Blog | How to Engage Developers to Build a Successful Application Security Program](https://www.veracode.com/blog/managing-appsec/how-engage-developers-build-successful-application-security-program)
 - [Veracode Blog | Securing APIs: Practical Steps to Protecting Your Software](https://www.veracode.com/blog/managing-appsec/securing-apis-practical-steps-protecting-your-software)
