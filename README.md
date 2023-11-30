@@ -317,7 +317,7 @@ For cases where automated crawling and exploring is not sufficient, Dynamic Anal
 This section contains some best practice recommendations for authoring crawl scripts to improve successful execution of the scan and improve web application coverage.
 
 #### When you might need a crawl script ###
-Generally, a crawl script should not be required to fully scan a web application with Dynamic Analysis. The only time that a crawl script is absolutely needed is when a web application has functionality that is only accessible with a particular set of inputs in a multiple step process. An example is a site that provides different functionality based on the user’s choice of region from a long drop-down list, or that restricts access to other functionality based on a user’s entry of data in part of the application.
+Generally, a crawl script should not be required to fully scan a web application with Dynamic Analysis. The only time that a crawl script is absolutely needed is when a web application has functionality that is only accessible with a particular set of inputs in a multiple step process. An example is a site that provides different functionality based on the user’s choice of region from a long drop-down list, or that restricts access to other functionality based on a user’s entry of data in part of the application. This is the use case for sites with more complicated business logic.
 
 You may also want to provide a crawl script as a hint to Dynamic Analysis if you find that a particular set of pages or functionality were not crawled during a scan of your site.
 
@@ -332,7 +332,7 @@ Cache and cookies: Always clear your cache and cookies before recording a crawl 
 
 `Multiple methods`: If a step fails when the script executes, then try identifying targets by an alternative method.
 
-`Elements with long waits`: Any command that targets an elements (like a click or type command) automatically has an implicit waitForElementPresent process that occurs with a 30 second timeout. However, in cases where an element may take longer than 30 seconds to load, you may need to add additional waits. We recommend using these sparingly as they may increase your scan duration or cause other issues with the scan. 
+`Elements with long waits`: Any command that targets an elements (like a click or type command) automatically has an implicit waitForElementPresent process that occurs with a 30 second timeout. However, in cases where an element may take longer than 30 seconds to load, you may need to add additional waits. We recommend using these sparingly as they may increase your scan duration or cause other issues with the scan. If you need to use any waits we recommend that you use implicit wait commands such as `waitForElementPresent` or `waitForTextPresent` instead of explicit pauses or waits
 
 #### General advice ###
 `Avoid pauses`: Where possible avoid including pauses in the script. 
