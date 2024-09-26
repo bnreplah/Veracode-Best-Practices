@@ -111,15 +111,25 @@ Cache and cookies: Always clear your cache and cookies before recording a crawl 
 
 
 ### References ###
-Help Center: Selenium Commands Supported in Dynamic Analysis
 
-Community: Dynamic Analysis topic, Dynamic Analysis group
+[Veracode Doc Center | Dynamic Analysis](https://docs.veracode.com/r/Dynamic_Analysis)
 
-Create an API Specification Scan (Video): https://docs.veracode.com/r/Video_Create_an_API_Specification_Scan
+- [Veracode Doc Center | Configure a Web Application Scan](https://docs.veracode.com/r/c_was_configure)
+  - [Veracode Doc Center | URL configuration for web application scans ](https://docs.veracode.com/r/c_was_conf_url3)
+  - [Veracode Doc Center | Selenium Commands Supported in Dynamic Analysis](https://docs.veracode.com/r/Selenium_Commands_Supported_in_Dynamic_Analysis)
+      - [Veracode Doc Center | Selenium Script Best Practices](https://docs.veracode.com/r/About_Selenium_Script_Best_Practices)
+  - [Veracode Doc Center | Use Single Sign-on For Web Application Scans](https://docs.veracode.com/r/About_Dynamic_Analysis_Single_Sign-On_Authentication_Recommendations)
+  - [Veracode Doc Center | Configure Scanner Variables ](https://docs.veracode.com/r/Configure_scanner_variables)
+- [Veracode Doc Center | Best practices for a Dynamic Analysis of web applications](https://docs.veracode.com/r/Best_Practices_for_a_Dynamic_Analysis_of_Web_Applications)
 
-Create an API Specification Scan: https://docs.veracode.com/r/Create_an_API_Specification_Scan
+[Veracode Doc Center | Dynamic Analysis API Scans](https://docs.veracode.com/r/About_Veracode_API_Scanning)
 
-About API Specification Scans: https://docs.veracode.com/r/About_API_Scanning_and_API_Specifications
+- [Veracode Doc Center | About API Specification Scans](https://docs.veracode.com/r/About_API_Scanning_and_API_Specifications)
+- [Veracode Doc Center | Create an API Specification Scan](https://docs.veracode.com/r/Create_an_API_Specification_Scan)
+- [Veracode Doc Center | Configure and Run and API Specification scan](https://docs.veracode.com/r/Configure_and_Run_an_API_Specification_Scan)
+  - [Veracode Doc Center | API Scanning Authentication Methods](https://docs.veracode.com/r/API_Scanning_Authentication_Methods)
+  - [Veracode Doc Center | Create an API Specification Scan (Video)](https://docs.veracode.com/r/Video_Create_an_API_Specification_Scan)
 
-API Scanning Authentication Methods: https://docs.veracode.com/r/API_Scanning_Authentication_Methods
 
+
+[Veracode Community  : Dynamic Analysis topic, Dynamic Analysis group](https://community.veracode.com/s/topic/0TO2T000000bzrpWAA/veracode-dynamic-analysis?tabset-49418=2)
