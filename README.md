@@ -488,8 +488,8 @@ Looking at some of the most prevalant CWEs and Categories in an organization can
 ## Veracode Docs:
 
 - [Veracode Doc Center](https://docs.veracode.com/)
-- [Veracode Docs | All Links](https://docs.veracode.com/r/all_HC)
-- [Veracode Docs | All Videos](https://docs.veracode.com/r/all_videos_HC)
+- ~~[Veracode Docs | All Links](https://docs.veracode.com/r/all_HC)~~
+- ~~[Veracode Docs | All Videos](https://docs.veracode.com/r/all_videos_HC)~~
 - [Veracode Docs | Getting Started with the Platform](https://docs.veracode.com/r/start)
 - [Veracode Docs | Getting Started with Static](https://docs.veracode.com/r/Static_Analysis_Quickstart)
 - [Veracode Docs | Getting Started with Dynamic](https://docs.veracode.com/r/Dynamic_Analysis)
