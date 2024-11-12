@@ -384,7 +384,7 @@ Defining a consistent sandbox structure, rather than forcing each team to figure
 - Use Pipeline Scan in the Continuous Integration pipeline to scan each application, tracking metadata for each scan such as the platform application ID to permit reporting in Analytics.
 - Use the Release Candidate development sandbox to prepare mitigations, if desired, before pushing the application into production. (Automate this process in the late stage of your pipeline, or on a daily or weekly schedule.)
 - Do a policy scan or promote a Sandbox Scan from the Release Candidate sandbox when the application goes into production, so you have a record of how the application has done against your policy
-
+- when you start rolling out blocking, or gateing, start with just gating on net new flaws, and then start to work back from there not to overwhelm. 
 
 #### Application profiles for Microservices applications ###
 
