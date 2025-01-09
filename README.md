@@ -1,4 +1,6 @@
 # Veracode Best Practices #
+---
+
 [Prevent](#prevent)    
 [Detect](#detect)   
 [Respond](#respond)   
@@ -479,6 +481,9 @@ With Veracode Fix, you can get an additional layer of remediation guidance throu
 Remediation Guidance Texts are available for certain CWEs. In the details of each flaw is also the reference to the CWE record on multiple public references. This allows the developer to gain more insight into the context of the flaw and the potential impact of the flaw. There is also targetted eLearning modules to help aid by providing education modules around the flaw and how to prevent the flaw. 
 
 Looking at some of the most prevalant CWEs and Categories in an organization can be a good start to design a targeted curriculum to help reduce the ongoing technical debt. 
+
+## Veracode Fix ##
+[Veracode Fix best practices under construction] Coming Soon
 
 
 
