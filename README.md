@@ -95,6 +95,10 @@ You want to design with security integrated into you SDLC
 - Ensure the right language is used in the development process
 - Use appropriate mapping for testing purposes
 
+Optionally, you can consider using email lists for notifications attached to the application profiles or attached to a service account, so that those in the email list will get the notifications directed for that service account, or recieve notifications around the application profile events. There are other notification controls related to assignment that can also be leveraged. You can also configure a notification service on a server that could be triggered by the email automation to then send out more enriched internal emails. 
+
+Review the roles and permission controls that you have access to limit and scope, to potentially create any [custom roles](https://docs.veracode.com/r/c_role_permissions#custom-roles) if needed.
+
 ### Code and Build ###
 
 #### Best Practices ####
