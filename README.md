@@ -133,10 +133,11 @@ You want to design with security integrated into you SDLC
 
 Identify your attack surface
 
-- Idenitfy Admins, New Users, Teams, App Workflow, and Security Champions
+- Identify Admins, New Users, Teams, App Workflow, and Security Champions
 - Identify the requirements and stretch goal in regards to a Remediation Plan
 - Identify those who would need access to veracode
 - Identify the role team structure, know what roles each team will have within.
+- Identify any email lists or distribution lists to be used for notifications
 - Identify your attack surface
 
 
@@ -188,7 +189,7 @@ Use the information gathered from feedback from the teams along with reviewing t
 - Determine whether a company wide security training is needed
 - Determine whether targetted training modules are needed
 
-
+> You can utilize email lists as the `Owner Email` to allow for the notifications around the scan activity to be sent out to the entire distribution list. [Notifications](https://docs.veracode.com/r/t_configure_emails) for the scans attached to the applications can be configured seperately for those members of the teams assigned to the application. In the case that the notifications fail to be sent, your email may be added to the [blocklist](https://docs.veracode.com/r/Remove_Your_Email_Address_from_the_Veracode_Blocklist)
 
 # Detect #
 ```
